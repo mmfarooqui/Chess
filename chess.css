@@ -1,0 +1,15 @@
+h1{
+    text-align: center;
+    font-family: 'Ubuntu', sans-serif;
+}
+table{
+    margin: auto;
+    width: 800px;
+    height: 800px;
+}
+td{
+    border-width: 1px;
+}
+.Black{
+    background-color: black;
+}
