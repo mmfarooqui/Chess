@@ -1,2 +1,2 @@
 # Chess
-Chess board game 
+Chess board game
